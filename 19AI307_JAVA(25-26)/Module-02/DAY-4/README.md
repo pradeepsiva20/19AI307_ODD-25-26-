@@ -73,3 +73,4 @@ class prog {
 
 Thus, the Java program to demonstrate variable scope and constructor was executed successfully.
 
+
