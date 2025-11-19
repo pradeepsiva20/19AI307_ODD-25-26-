@@ -142,3 +142,4 @@ public class Main {
 ## RESULT:
 Thus, the Java program demonstrating Inheritance and Aggregation using customer types with different discount calculations was successfully executed.
 
+
